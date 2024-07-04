@@ -30,3 +30,6 @@ print(f"Link del video: {link}")
 
 
 ```
+- [x] Smooothhh 
+- [x] Operator
+- [ ] 🥁 🎺 🥁
